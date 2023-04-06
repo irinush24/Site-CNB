@@ -1,2 +1,2 @@
 # Site-CNB
-se incearca, nu intrebati niciodata de ce nu sunt consistent cu unitatile de masura si cat l-am batut pe Dragos la cap
+se incearca, nu intrebati niciodata de ce nu sunt consecventa cu unitatile de masura si cat l-am batut pe Dragos la cap
